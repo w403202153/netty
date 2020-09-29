@@ -13,6 +13,6 @@ public class StudyClientApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("12345");
+        System.out.println("123456");
     }
 }
